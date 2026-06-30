@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Saya Mahasiswa Politeknik Harapan Bersama<br><br>- 🔭 Mahasiswa yang gemar membangun solusi lewat kode<br>- 📚 Belajar sambil berkarya melalui proyek open source<br>- ⚡ Penjelajah dunia pemrogrman dan teknologi</p>
+<p align="left">Saya Mahasiswa Politeknik Harapan Bersama<br><br>- Mahasiswa yang gemar membangun solusi lewat kode<br>- Belajar sambil berkarya melalui proyek open source<br>- Penjelajah dunia pemrogrman dan teknologi</p>
 
 ###
 
